@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://4cloud.co/sitemap.xml
